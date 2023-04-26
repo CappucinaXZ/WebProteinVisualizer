@@ -1,7 +1,4 @@
-cython>=0.19
-ProDy==2.4.0
 dash-bio-utils==0.0.6
-gunicorn==19.9.0
 numpy
 pandas==2.0.1
 plotly==5.14.1
