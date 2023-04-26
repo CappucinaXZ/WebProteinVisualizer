@@ -2,8 +2,8 @@ cython>=0.19
 dash-bio-utils==0.0.6
 gunicorn==19.9.0
 numpy==1.19.5
-pandas>=0.24.2
-plotly>=3.5.0
+pandas==2.0.1
+plotly==5.14.1
 dash==2.9.1
 dash-bio==1.0.1
 dash-core-components==2.0.0
