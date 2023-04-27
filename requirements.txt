@@ -10,4 +10,4 @@ dash-html-components==2.0.0
 dash-table==5.0.0
 sidechainnet==0.7.6
 einops==0.6.1
-torch==2.0.0+cpu
+torch==2.0.0
